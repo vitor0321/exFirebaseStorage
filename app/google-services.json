@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517314665874",
+    "project_id": "exfirebasestorage",
+    "storage_bucket": "exfirebasestorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517314665874:android:5d43f85dc7d4d65bc8754b",
+        "android_client_info": {
+          "package_name": "com.example.exfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517314665874-q1kgp5946ejk74v77atkbk4ujkc0nnru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBij-pnQcp8ddhSLB8CsKSmnNq2o5dVaRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517314665874-q1kgp5946ejk74v77atkbk4ujkc0nnru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
